@@ -9,7 +9,7 @@
     justify-content: flex-start;
     height: calc(var(--uib-size) * 0.64);
     width: calc(var(--uib-size) * 0.64);
-}
+} 
 .test{
     padding-left: 45%;
     padding-top: 20%;
